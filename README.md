@@ -1,2 +1,0 @@
-# ScoreKeeper
-Created with CodeSandbox
